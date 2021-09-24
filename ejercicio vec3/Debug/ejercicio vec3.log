@@ -1,0 +1,3 @@
+﻿  ejvec3cpp.cpp
+C:\Users\Laia\Desktop\ejercicio vec3\ejercicio vec3\ejvec3cpp.cpp(44,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  ejercicio vec3.vcxproj -> C:\Users\Laia\Desktop\ejercicio vec3\ejercicio vec3\Debug\ejercicio vec3.exe
